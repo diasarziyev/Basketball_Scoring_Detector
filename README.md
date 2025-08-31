@@ -1,4 +1,4 @@
-# 🏀 Basketball-51 Action Recognition — Full Project
+# 🏀 Basketball Scoring Recognition — Full Project
 
 End-to-end repo for training an **R(2+1)D-18** 3D CNN on the **Basketball-51** dataset.
 It includes a classic ML folder layout: `data/raw`, `data/processed/train|val|test/<class>`, and training/eval tools.
